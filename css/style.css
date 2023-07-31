@@ -1,0 +1,26 @@
+body{
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    background-color: rgb(255, 255, 224);
+    font-size: 13.33px;
+    padding: 0px 10px;
+}
+.title{
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 12pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+.leon{
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 300;
+}
+.title2{
+    text-align: center;
+    color: rgb(204, 0, 0);
+    font-size: 12pt;
+    margin-top: 30px;
+}
